@@ -8,6 +8,6 @@ menu:
   main: {}
 
 ---
-surtout, ne me contacter pas.
+surtout, ne me contactez pas.
 
 {{< form-contact action="https://example.com"  >}}
