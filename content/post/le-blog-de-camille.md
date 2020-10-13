@@ -3,7 +3,7 @@ date = 2020-10-13T12:19:42Z
 description = ""
 disable_share = false
 draft = true
-featured_image = ""
+featured_image = "/images/thumb-1920-312856.png"
 tags = ["scene"]
 title = "Le blog de Camille"
 
